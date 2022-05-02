@@ -19,8 +19,10 @@
 <img width="284" alt="스크린샷 2022-05-03 오전 1 03 38" src="https://user-images.githubusercontent.com/70462939/166268823-acce3cd7-711d-4da4-b8ad-ec8f9c765e51.png">
 <img width="284" alt="스크린샷 2022-05-03 오전 1 03 58" src="https://user-images.githubusercontent.com/70462939/166268814-f361fad6-57d1-4fc4-b83d-70f9e7fadf58.png">
 <img width="284" alt="스크린샷 2022-05-03 오전 1 08 29" src="https://user-images.githubusercontent.com/70462939/166268804-a5a20af4-d543-4400-91ef-3b21609d040b.png">
-
+ 
 </div>
+
+### 카메라 & 갤러리 & 라즈베리파이 카메라에서 사진을 가져와 객체 인식하여, room 데이터베이스를 이용하여 나의 냉장고 프래그먼트에 음식 재료를 추가한다.
 
 <br />
 
@@ -28,12 +30,18 @@
 <div align=center>
 <img width="422" alt="스크린샷 2022-05-03 오전 1 21 14" src="https://user-images.githubusercontent.com/70462939/166269639-e37580c1-59eb-480e-a9a8-4f17cd8c9145.png">
 </div>
+
+### 추가된 음식 재료를 기반으로 음식 레시피를 프래그먼트의 리사이클뷰로 불러와 상세 페이지로 확인할 수 있다.
+
 <br />
 
 ## IoT 연동(카카오 음성 API)
 <div align=center>
 <img width="965" alt="스크린샷 2022-05-03 오전 1 01 46" src="https://user-images.githubusercontent.com/70462939/166269160-23b09c5c-2d0e-440b-82a4-c3874ae5fa0a.png">
 </div>
+
+### 음식 레시피 정보를 라즈베리파이 Mqtt 통신을 통하여 카카오 음성합성 API로 읽어준다, 또 나의 냉장고 재료들 중에서 유통기한이 1일 미만으로 남은 재료를 음성으로 읽어준다.
+
 <br />
 
 ## 참고 문헌
