@@ -26,6 +26,7 @@
 <br />
 
 ## 추천 레시피 API
+
 <div align=center>
 <img width="422" alt="스크린샷 2022-05-03 오전 1 21 14" src="https://user-images.githubusercontent.com/70462939/166269639-e37580c1-59eb-480e-a9a8-4f17cd8c9145.png">
 </div>
@@ -35,6 +36,7 @@
 <br />
 
 ## IoT 연동(카카오 음성 API)
+
 <div align=center>
 <img width="965" alt="스크린샷 2022-05-03 오전 1 01 46" src="https://user-images.githubusercontent.com/70462939/166269160-23b09c5c-2d0e-440b-82a4-c3874ae5fa0a.png">
 </div>
