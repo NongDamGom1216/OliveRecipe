@@ -15,11 +15,11 @@
 
 ## 객체 인식 & Room 데이터 연동
 
-
+<div align=center>
 <img width="284" alt="스크린샷 2022-05-03 오전 1 08 29" src="https://user-images.githubusercontent.com/70462939/166268804-a5a20af4-d543-4400-91ef-3b21609d040b.png">
 <img width="284" alt="스크린샷 2022-05-03 오전 1 03 58" src="https://user-images.githubusercontent.com/70462939/166268814-f361fad6-57d1-4fc4-b83d-70f9e7fadf58.png">
 <img width="284" alt="스크린샷 2022-05-03 오전 1 03 38" src="https://user-images.githubusercontent.com/70462939/166268823-acce3cd7-711d-4da4-b8ad-ec8f9c765e51.png">
-
+</div>
 
 <br />
 
